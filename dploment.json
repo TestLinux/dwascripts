@@ -5,3 +5,10 @@
     "environment": "prod",
     "cluster": "default"
   }
+{
+    "label": "GLD: newShow",
+    "show": "newShow",
+    "site": "gld",
+    "environment": "prod",
+    "cluster": "default"
+  }
