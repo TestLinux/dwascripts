@@ -1,0 +1,7 @@
+{
+    "label": "GLD: Shrek5",
+    "show": "shrek5",
+    "site": "gld",
+    "environment": "prod",
+    "cluster": "default"
+  }
